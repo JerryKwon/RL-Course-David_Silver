@@ -11,3 +11,7 @@ Reinforcement Learning Course in DeepMind
 ## Summaries 
 
 1. <a href="lectures/1. Introduction to Reinforcement Learning.md">Introduction to Reinforcement Learning</a>
+2. <a href="lectures/2. Markov Decision Process.md">Markov Decision Process</a>
+3. <a href="lectures/3. Planning by Dynamic Programming.md">Planning by Dynamic Programming</a>
+4. <a href="lectures/4. Model-Free Prediction.md">Model-Free Prediction</a>
+5. <a href="lectures/5. Model-Free Control.md">Model-Free Control</a>
